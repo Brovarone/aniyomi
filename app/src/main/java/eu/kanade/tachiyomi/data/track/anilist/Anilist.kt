@@ -20,7 +20,7 @@ class Anilist(private val context: Context, id: Long) : TrackService(id) {
         const val READING = 1
         const val WATCHING = 11
         const val COMPLETED = 2
-        const val PAUSED = 3
+        const val PAUSED = 3 // gestire su categorie. vedi fun update sotto
         const val DROPPED = 4
         const val PLANNING = 5
         const val PLANNING_ANIME = 15
