@@ -20,7 +20,7 @@ class MyAnimeList(private val context: Context, id: Long) : TrackService(id) {
         const val READING = 1
         const val WATCHING = 11
         const val COMPLETED = 2
-        const val ON_HOLD = 3
+        const val ON_HOLD = 3 //gestire su categorie
         const val DROPPED = 4
         const val PLAN_TO_READ = 6
         const val PLAN_TO_WATCH = 16
