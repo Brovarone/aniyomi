@@ -6,6 +6,10 @@
 # ![app icon](.github/readme-images/app-icon.png)Aniyomi
 Aniyomi is an unofficial fork of the free and open source manga reader [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) that adds anime capabilities! For Android 6.0 and above.
 
+## Progetto sviluppo ##
+* Gestire categorie Pause / Drop in maniera piu' automatica, simile a Caompleted
+* valutare aggiunta tracker su AnimeClick.it
+
 ## Features
 
 Features include:
